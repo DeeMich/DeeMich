@@ -1,4 +1,4 @@
-### Hey You 👋
+### Hi, I'm Deja, an IT Professional 👋
 
 <!--
 **DeeMich/DeeMich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
